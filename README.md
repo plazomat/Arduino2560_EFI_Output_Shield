@@ -22,3 +22,5 @@ If desired and highly recomended an option to merge all 4 together off board at 
 All outputs are wire connections to PCB (16 awg) - no common location for connections - simplifies routing and noise performance of Design
 Stackable design - using the correct board connectors
 
+Blank PCB's can be ordered from OSH PARK https://oshpark.com/shared_projects/XDy18G73 about $10 each need to buy 3 pcs
+
