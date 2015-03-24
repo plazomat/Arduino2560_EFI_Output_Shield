@@ -1,120 +1,120 @@
-"Report File:","E:\TPT Designs\Arduino2560_EFI_Output_Shield\Arduino2560_EFI_Output_Shield (Bill Of Materials).csv"
-"Report Written:","Monday, January 19, 2015"
-"Project Path:","E:\TPT Designs\Arduino2560_EFI_Output_Shield\Arduino2560_EFI_Output_Shield.prj"
-"Design Path:","E:\TPT Designs\Arduino2560_EFI_Output_Shield\Arduino2560_EFI_Output_Shield.pcb"
-"Design Title:",""
-"Created:","1/23/2014 3:36:08 AM"
-"Last Saved:","1/18/2015 8:14:07 PM"
-"Editing Time:","3854 min"
-"Units:","thou (precision 0)"
+Report File:,E:\TPT Designs\Arduino2560_EFI_Output_Shield\rev 0.1\Arduino2560_EFI_Output_Shield (Bill Of Materials).csv,,,,,,,,
+Report Written:,"Thursday, February 19, 2015",,,,,,,,
+Project Path:,E:\TPT Designs\Arduino2560_EFI_Output_Shield\rev 0.1\Arduino2560_EFI_Output_Shield.prj,,,,,,,,
+Design Path:,E:\TPT Designs\Arduino2560_EFI_Output_Shield\rev 0.1\Arduino2560_EFI_Output_Shield.pcb,,,,,,,,
+Design Title:,,,,,,,,,
+Created:,1/23/2014 3:36,,,,,,,,
+Last Saved:,2/19/2015 22:27,,,,,,,,
+Editing Time:,3865 min,,,,,,,,
+Units:,thou (precision 0),,,,,,,,
 
-Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb
---------------------------------------------------------------------------
+Bill of Materials generated with DesignSpark PCB - www.DesignSpark.com/pcb,,,,,,,,,
+--------------------------------------------------------------------------,,,,,,,,,
 
 
-"Ref Name","Qty","Component","Value","Package","Manufacturer","MPN","RS Part Number","Other Part Number","Description"
-"PL3","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL5","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL6","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL7","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL8","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL15","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL16","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL22","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL23","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL24","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL25","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL26","1","1WP_16awg","","USER","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL4","1","2WP_awg16","","DSC","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL2","1","2WP_awg16","","DSC","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL11","1","2WP_awg16","","DSC","Do Not Install","Do Not Install","","","Wire Point 16 awg"
-"PL1","1","3WP","","DSC","Samtech","SSW-103-02-G-S","","","3 way Pin Header"
-"C1","1","1206CAP_1uF","1uF","SM1206","Kemet","C1206C105K5RACTU","","","Capacitor, Surface Mount Multi-Layer Ceramic"
-"C2","1","1206CAP_1uF","1uF","SM1206","Kemet","C1206C105K5RACTU","","","Capacitor, Surface Mount Multi-Layer Ceramic"
-"R38","1","1206jumper","0","SM1206","Vishay Dale","CRCW12060000Z0EA","","","Resistor (USA type)"
-"R39","1","1206jumper","0","SM1206","Vishay Dale","CRCW12060000Z0EA","","","Resistor (USA type)"
-"R51","1","1206jumper","0","SM1206","Vishay Dale","CRCW12060000Z0EA","","","Resistor (USA type)"
-"R52","1","1206jumper","0","SM1206","Vishay Dale","CRCW12060000Z0EA","","","Resistor (USA type)"
-"R53","1","1206jumper","0","SM1206","Vishay Dale","CRCW12060000Z0EA","","","Resistor (USA type)"
-"R42","1","1206jumper","0","SM1206","Vishay Dale","CRCW12060000Z0EA","","","Resistor (USA type)"
-"R54","1","1206jumper","0","SM1206","Vishay Dale","CRCW12060000Z0EA","","","Resistor (USA type)"
-"LED5","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED6","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED7","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED8","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED9","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED10","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED11","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED12","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED13","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED14","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED15","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED16","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED17","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"LED18","1","LED (3mm)","","DIL","Wurth Electronics Inc","151031SS06000","","","3mm LED"
-"ADCH","1","PINHD-1X8","8x1F-H8.5","1X08","Samtec","SSW-108-02-G-S","765-5705","","PIN HEADER"
-"ADCL","1","PINHD-1X8","8x1F-H8.5","1X08","Samtec","SSW-108-02-G-S","765-5705","","PIN HEADER"
-"COMMUNICATION","1","PINHD-1X8","8x1F-H8.5","1X08","Samtec","SSW-108-02-G-S","765-5705","","PIN HEADER"
-"POWER","1","PINHD-1X8","8x1F-H8.5","1X08","Samtec","SSW-108-02-G-S","765-5705","","PIN HEADER"
-"PWML","1","PINHD-1X8","8x1F-H8.5","1X08","Samtec","SSW-108-02-G-S","765-5705","","PIN HEADER"
-"PWM","1","PINHD-1X10_ARD","10x1F-H8.5","1X10","Samtec","SSW-110-02-G-S","765-5745","","PIN HEADER"
-"XIO","1","PINHD-2X18","18x2F-H8.5","2X18","Samtec","SDL-118-T-10","767-8947","","PIN HEADER"
-"R3","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R6","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R9","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R12","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R16","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R18","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R24","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R26","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R35","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R36","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R47","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R48","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R46","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R50","1","Res1206_1K","1K","SM1206","Vishay Dale","RCG12061K00JNEA","","","Resistor (USA type)"
-"R2","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R5","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R8","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R11","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R14","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R15","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R22","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R23","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R33","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R34","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R41","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R49","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R44","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R45","1","Res1206_100K","100K","SM1206","Vishay Dale","RCG1206100KJNEA","","","Resistor (USA type)"
-"R17","1","Res1206_160","160","SM1206","Vishay Dale","CRCW1206160RJNEA","","","Resistor (USA type)"
-"R20","1","Res1206_160","160","SM1206","Vishay Dale","CRCW1206160RJNEA","","","Resistor (USA type)"
-"R25","1","Res1206_160","160","SM1206","Vishay Dale","CRCW1206160RJNEA","","","Resistor (USA type)"
-"R28","1","Res1206_160","160","SM1206","Vishay Dale","CRCW1206160RJNEA","","","Resistor (USA type)"
-"R1","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R4","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R7","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R10","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R13","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R19","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R21","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R27","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R29","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R31","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R32","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R37","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R30","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"R43","1","Res1206_680","680","SM1206","Vishay Dale","CRCW1206680RJNEA","","","Resistor (USA type)"
-"D1","1","RS1G-E3/61T","","DIODE_DO214AC-L","Vishay","RS1G-E3/61T","7103106","","RS1G-E3/61T"
-"D2","1","RS1G-E3/61T","","DIODE_DO214AC-L","Vishay","RS1G-E3/61T","7103106","","RS1G-E3/61T"
-"D3","1","RS1G-E3/61T","","DIODE_DO214AC-L","Vishay","RS1G-E3/61T","7103106","","RS1G-E3/61T"
-"D4","1","RS1G-E3/61T","","DIODE_DO214AC-L","Vishay","RS1G-E3/61T","7103106","","RS1G-E3/61T"
-"U9","1","TC4424AVOA","","USER","Microchip Tech","TC4424AVOA","","","IC MOSFET DVR 3A DUAL HS 8SOIC"
-"U10","1","TC4424AVOA","","USER","Microchip Tech","TC4424AVOA","","","IC MOSFET DVR 3A DUAL HS 8SOIC"
-"U3","1","VND14NV04-E","","DPAK-L","STMicroelectronics","VND14NV04-E","6876011","","OMNIFET II: Autoprotected MOSFET 12A"
-"U4","1","VND14NV04-E","","DPAK-L","STMicroelectronics","VND14NV04-E","6876011","","OMNIFET II: Autoprotected MOSFET 12A"
-"U5","1","VND14NV04-E","","DPAK-L","STMicroelectronics","VND14NV04-E","6876011","","OMNIFET II: Autoprotected MOSFET 12A"
-"U6","1","VND14NV04-E","","DPAK-L","STMicroelectronics","VND14NV04-E","6876011","","OMNIFET II: Autoprotected MOSFET 12A"
-"PL9","1","VNS3NV04DP-E","","USER","STMicroelectronics","VNS3NV04DPTR-E","","","IC MOSFET OMNIFET 45V 8-SOIC"
-"PL10","1","VNS3NV04DP-E","","USER","STMicroelectronics","VNS3NV04DPTR-E","","","IC MOSFET OMNIFET 45V 8-SOIC"
-"PL12","1","VNS3NV04DP-E","","USER","STMicroelectronics","VNS3NV04DPTR-E","","","IC MOSFET OMNIFET 45V 8-SOIC"
+Ref Name,Qty,Component,Value,Package,Manufacturer,MPN,RS Part Number,Digikey Part Number,Description
+PL3,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL5,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL6,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL7,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL8,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL15,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL16,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL22,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL23,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL24,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL25,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL26,1,1WP_16awg,,USER,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL4,1,2WP_awg16,,DSC,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL2,1,2WP_awg16,,DSC,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL11,1,2WP_awg16,,DSC,Do Not Install,Do Not Install,,,Wire Point 16 awg
+PL1,1,3WP,,DSC,Samtech,SSW-103-02-G-S,,,3 way Pin Header
+C1,1,1206CAP_1uF,1uF,SM1206,Kemet,C1206C105K5RACTU,,399-8147-1-ND,"Capacitor, Surface Mount Multi-Layer Ceramic"
+C2,1,1206CAP_1uF,1uF,SM1206,Kemet,C1206C105K5RACTU,,399-8147-1-ND,"Capacitor, Surface Mount Multi-Layer Ceramic"
+R38,1,1206jumper,0,SM1206,Vishay Dale,CRCW12060000Z0EA,,541-0.0ECT-ND,Resistor (USA type)
+R39,1,1206jumper,0,SM1206,Vishay Dale,CRCW12060000Z0EA,,541-0.0ECT-ND,Resistor (USA type)
+R51,1,1206jumper,0,SM1206,Vishay Dale,CRCW12060000Z0EA,,541-0.0ECT-ND,Resistor (USA type)
+R52,1,1206jumper,0,SM1206,Vishay Dale,CRCW12060000Z0EA,,541-0.0ECT-ND,Resistor (USA type)
+R53,1,1206jumper,0,SM1206,Vishay Dale,CRCW12060000Z0EA,,541-0.0ECT-ND,Resistor (USA type)
+R42,1,1206jumper,0,SM1206,Vishay Dale,CRCW12060000Z0EA,,541-0.0ECT-ND,Resistor (USA type)
+R54,1,1206jumper,0,SM1206,Vishay Dale,CRCW12060000Z0EA,,541-0.0ECT-ND,Resistor (USA type)
+LED5,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED6,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED7,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED8,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED9,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED10,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED11,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED12,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED13,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED14,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED15,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED16,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED17,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+LED18,1,LED (3mm),,DIL,Wurth Electronics Inc,151031SS06000,,732-5006-ND,3mm LED
+ADCH,1,PINHD-1X8,8x1F-H8.5,1X08,Samtec,SSW-108-02-G-S,765-5705,,PIN HEADER
+ADCL,1,PINHD-1X8,8x1F-H8.5,1X08,Samtec,SSW-108-02-G-S,765-5705,,PIN HEADER
+COMMUNICATION,1,PINHD-1X8,8x1F-H8.5,1X08,Samtec,SSW-108-02-G-S,765-5705,,PIN HEADER
+POWER,1,PINHD-1X8,8x1F-H8.5,1X08,Samtec,SSW-108-02-G-S,765-5705,,PIN HEADER
+PWML,1,PINHD-1X8,8x1F-H8.5,1X08,Samtec,SSW-108-02-G-S,765-5705,,PIN HEADER
+PWM,1,PINHD-1X10_ARD,10x1F-H8.5,1X10,Samtec,SSW-110-02-G-S,765-5745,,PIN HEADER
+XIO,1,PINHD-2X18,18x2F-H8.5,2X18,Samtec,SDL-118-T-10,767-8947,,PIN HEADER
+R3,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R6,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R9,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R12,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R16,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R18,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R24,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R26,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R35,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R36,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R47,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R48,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R46,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R50,1,Res1206_1K,1K,SM1206,Vishay Dale,RCG12061K00JNEA,,541-1873-1-ND,Resistor (USA type)
+R2,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R5,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R8,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R11,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R14,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R15,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R22,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R23,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R33,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R34,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R41,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R49,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R44,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R45,1,Res1206_100K,100K,SM1206,Vishay Dale,RCG1206100KJNEA,,541-1883-1-ND,Resistor (USA type)
+R17,1,Res1206_160,160,SM1206,Vishay Dale,CRCW1206160RJNEA,,541-160ECT-ND,Resistor (USA type)
+R20,1,Res1206_160,160,SM1206,Vishay Dale,CRCW1206160RJNEA,,541-160ECT-ND,Resistor (USA type)
+R25,1,Res1206_160,160,SM1206,Vishay Dale,CRCW1206160RJNEA,,541-160ECT-ND,Resistor (USA type)
+R28,1,Res1206_160,160,SM1206,Vishay Dale,CRCW1206160RJNEA,,541-160ECT-ND,Resistor (USA type)
+R1,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R4,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R7,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R10,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R13,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R19,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R21,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R27,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R29,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R31,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R32,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R37,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R30,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+R43,1,Res1206_680,680,SM1206,Vishay Dale,CRCW1206680RJNEA,,541-680ECT-ND,Resistor (USA type)
+D1,1,RS1G-E3/61T,,DIODE_DO214AC-L,Vishay,RS1G-E3/61T,7103106,RS1G-E3/61TGICT-ND,RS1G-E3/61T
+D2,1,RS1G-E3/61T,,DIODE_DO214AC-L,Vishay,RS1G-E3/61T,7103106,RS1G-E3/61TGICT-ND,RS1G-E3/61T
+D3,1,RS1G-E3/61T,,DIODE_DO214AC-L,Vishay,RS1G-E3/61T,7103106,RS1G-E3/61TGICT-ND,RS1G-E3/61T
+D4,1,RS1G-E3/61T,,DIODE_DO214AC-L,Vishay,RS1G-E3/61T,7103106,RS1G-E3/61TGICT-ND,RS1G-E3/61T
+U9,1,TC4424AVOA,,USER,Microchip Tech,TC4424AVOA,,TC4424AVOA-ND,IC MOSFET DVR 3A DUAL HS 8SOIC
+U10,1,TC4424AVOA,,USER,Microchip Tech,TC4424AVOA,,TC4424AVOA-ND,IC MOSFET DVR 3A DUAL HS 8SOIC
+U3,1,VND14NV04-E,,DPAK-L,STMicroelectronics,VND14NV04-E,,497-2674-5-ND,OMNIFET II: Autoprotected MOSFET 12A
+U4,1,VND14NV04-E,,DPAK-L,STMicroelectronics,VND14NV04-E,,497-2674-5-ND,OMNIFET II: Autoprotected MOSFET 12A
+U5,1,VND14NV04-E,,DPAK-L,STMicroelectronics,VND14NV04-E,,497-2674-5-ND,OMNIFET II: Autoprotected MOSFET 12A
+U6,1,VND14NV04-E,,DPAK-L,STMicroelectronics,VND14NV04-E,,497-2674-5-ND,OMNIFET II: Autoprotected MOSFET 12A
+PL9,1,VNS3NV04DP-E,,USER,STMicroelectronics,VNS3NV04DPTR-E,,497-13078-1-ND,IC MOSFET OMNIFET 45V 8-SOIC
+PL10,1,VNS3NV04DP-E,,USER,STMicroelectronics,VNS3NV04DPTR-E,,497-13078-1-ND,IC MOSFET OMNIFET 45V 8-SOIC
+PL12,1,VNS3NV04DP-E,,USER,STMicroelectronics,VNS3NV04DPTR-E,,497-13078-1-ND,IC MOSFET OMNIFET 45V 8-SOIC
